@@ -1,9 +1,3 @@
-/*This program is made by :-
-Name             : Nimesh Srivastava
-Registration No. : 19BAI10026
-Slot		 : D11+D12+D13
-*/
-
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
