@@ -6,7 +6,7 @@ struct time
 	int h,m,s,a_h,a_m,a_s;
 };
 
-int main()
+void main()
 {
 	int i,count=0;
 	struct time t[2],a;
