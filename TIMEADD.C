@@ -67,4 +67,5 @@ int main()
 	printf("\n\nAddition of given times :-");
 	printf("\n\n\t%d : %d : %d",a.a_h,a.a_m,a.a_s);
 	getch();
+	return 0;
 }
