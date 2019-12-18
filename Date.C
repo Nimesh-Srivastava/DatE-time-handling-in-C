@@ -3,7 +3,7 @@
 #include<string.h>
 #include<time.h>
 
-int main()
+void main()
 {
 	int date=0,month=0,year=0,n_day=0,n_mon=0,n_year=0,leap=0,i;
 	char name[50],addr[50],app[100];
@@ -254,6 +254,5 @@ int main()
 		printf("\n\n\tTime till your next birthday\t : %d month(s), %d day(s)",n_mon,n_day);
 	}
 	printf("\n\n\tAddress\t\t\t\t : %s",app);
-	getch();
-	return 0;
+	getch();	
 }
