@@ -254,6 +254,5 @@ void main()
 		printf("\n\n\tTime till your next birthday\t : %d month(s), %d day(s)",n_mon,n_day);
 	}
 	printf("\n\n\tAddress\t\t\t\t : %s",app);
-	getch();	
-	return 0;
+	getch();
 }
